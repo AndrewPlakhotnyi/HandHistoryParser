@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HandHistoryParser/HandHistoryParser.csproj" />
+  <Project Path="HandHistoryParserTest/HandHistoryParserTest.csproj" Id="aba217e7-de7b-45c7-a699-afd028d0a3ef" />
+</Solution>

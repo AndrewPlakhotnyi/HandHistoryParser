@@ -1,0 +1,14 @@
+D:\CleanParser\HandHistoryParser\HandHistoryParser\bin\Debug\net8.0\HandHistoryParser.exe
+D:\CleanParser\HandHistoryParser\HandHistoryParser\bin\Debug\net8.0\HandHistoryParser.deps.json
+D:\CleanParser\HandHistoryParser\HandHistoryParser\bin\Debug\net8.0\HandHistoryParser.runtimeconfig.json
+D:\CleanParser\HandHistoryParser\HandHistoryParser\bin\Debug\net8.0\HandHistoryParser.dll
+D:\CleanParser\HandHistoryParser\HandHistoryParser\bin\Debug\net8.0\HandHistoryParser.pdb
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.AssemblyInfoInputs.cache
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.AssemblyInfo.cs
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.csproj.CoreCompileInputs.cache
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.dll
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\refint\HandHistoryParser.dll
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.pdb
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\HandHistoryParser.genruntimeconfig.cache
+D:\CleanParser\HandHistoryParser\HandHistoryParser\obj\Debug\net8.0\ref\HandHistoryParser.dll

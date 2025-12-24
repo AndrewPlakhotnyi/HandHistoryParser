@@ -9,8 +9,8 @@
 	<ItemGroup>
 		<Using Include="HandHistoryParser.Common" />
 		<Using Include="System.Collections.Immutable" />
-		<Using Include="System.Xml.Linq"/>
-		<Using Include="System.Reflection"/>
+		<Using Include="System.Xml.Linq" />
+		<Using Include="System.Reflection" />
 	</ItemGroup>
 	
 </Project>

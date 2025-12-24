@@ -8,6 +8,8 @@ HandHistory {
         HandId = handId;
         Players = players;
     }
+
+    public bool ContainsPlayer(string nickname) => Players.Any(player => player.Nickname == nickname);
 }
 
 public class

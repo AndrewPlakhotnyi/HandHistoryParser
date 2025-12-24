@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharptutor\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj": {}
+    "C:\\junk\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj": {}
   },
   "projects": {
-    "D:\\csharptutor\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj": {
+    "C:\\junk\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharptutor\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj",
+        "projectUniqueName": "C:\\junk\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj",
         "projectName": "HandHistoryParser",
-        "projectPath": "D:\\csharptutor\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj",
-        "packagesPath": "C:\\Users\\GleboZavr\\.nuget\\packages\\",
-        "outputPath": "D:\\csharptutor\\CLIParser\\HandHistoryParser\\obj\\",
+        "projectPath": "C:\\junk\\CLIParser\\HandHistoryParser\\HandHistoryParser.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "C:\\junk\\CLIParser\\HandHistoryParser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\GleboZavr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
